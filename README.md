@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mohamed Aldoufani
 
 - 👀 I’m interested in NLP and Computer vision
-- I’m currently working on 🤖 [AI Chatbot Project]
+- I’m currently working on 👁 [A Smart system to moniter my university's gate]
 - 🌱 I’m currently learning everything about ML&DL 😍
 - 💞️ I’m looking to collaborate with other content creatores 
 - 🤷‍♂️ Fun fact: I love football ⚽ and reading books 🧠📚
